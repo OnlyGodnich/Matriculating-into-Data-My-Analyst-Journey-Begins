@@ -38,6 +38,14 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 ### Data Analysis
 
+
 This is where i include some basic lines of code, Queries or even some DAX expressions used during my analysis
+
+
+``` SQL
+SELECT Region
+WHERE Region = Europe
+
+```
 
 
